@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "es6",
+    "jsx": "react",
+    "jsxFactory": "h",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "moduleResolution": "node"
+  }
+}
